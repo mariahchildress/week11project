@@ -29,6 +29,14 @@ body {
     border-bottom: 0.2em solid black;
 }
 
+.top-border {
+    border-top: 0.2em solid black;
+}
+
+.left-border {
+    border-left: 0.2em solid black;
+}
+
 .strike {
     position: absolute;
     background-color: black;
